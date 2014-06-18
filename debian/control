@@ -8,7 +8,7 @@ Homepage: http://adaxisoft.be
 
 Package: openmediavault-essencia
 Architecture: all
-Depends: openmediavault (>= 0.5.7), openmediavault-addns-essencia, openmediavault-freelan-essencia, openmediavault-sabnzbdplus-essencia, openmediavault-sickbeard-essencia, openmediavault-btsync
+Depends: openmediavault (>= 0.5.7), openmediavault-addns-essencia, openmediavault-freelan-essencia, openmediavault-sabnzbdplus-essencia, openmediavault-sickbeard-essencia, openmediavault-couchpotato-essencia, openmediavault-btsync
 Priority: optional
 Description: Scaffolding for essencial packages.
  Essencial base adds repositories, users and libraries
