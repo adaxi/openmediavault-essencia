@@ -1,3 +1,33 @@
+openmediavault-essencia (0.6) unstable; urgency=low
+
+  * Fixed name of btsync package 
+
+ -- Gerik Bonaert <dev@adaxisoft.be>  Tue, 16 Sep 2014 18:23:03 +0000
+
+openmediavault-essencia (0.5) unstable; urgency=low
+
+  * Added dependency to openmediavault-couchpotato. 
+
+ -- Gerik Bonaert <dev@adaxisoft.be>  Wed, 18 Jun 2014 17:16:48 +0000
+
+openmediavault-essencia (0.4) unstable; urgency=low
+
+  * Added dependency to openmediavault-btsync. 
+
+ -- Gerik Bonaert <dev@adaxisoft.be>  Tue, 10 Jun 2014 21:02:57 +0000
+
+openmediavault-essencia (0.3) unstable; urgency=low
+
+  * Added dependency to openmediavault-sabnzbdplus.
+
+ -- Gerik Bonaert <dev@adaxisoft.be>  Mon, 09 Jun 2014 13:51:14 +0000
+
+openmediavault-essencia (0.2) unstable; urgency=low
+
+  * Added dependency to openmediavault-freelan. 
+
+ -- Gerik Bonaert <dev@adaxisoft.be>  Mon, 09 Jun 2014 10:06:31 +0000
+
 openmediavault-essencia (0.1) unstable; urgency=low
 
   * Initial release
